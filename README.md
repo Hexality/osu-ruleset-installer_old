@@ -15,8 +15,8 @@
 
 > [Bosu](https://github.com/EVAST9919/bosu) ([EV4ST](https://github.com/EVAST9919)) - `git clone --recurse-submodules https://github.com/EVAST9919/bosu`
 
-<!-- > ~~[Cytosu]() ([GSculerlor](https://github.com/GSculerlor)) - `git clone --recurse-submodules https://github.com/GSculerlor/Cytosu`~~ (Both base and rework branch are not working)
->> ~~[Cytosu](https://github.com/GSculerlor/Cytosu/tree/dev-rework) ([GSculerlor](https://github.com/GSculerlor)) [Rework] - `git clone --recurse-submodules --branch dev-rework https://github.com/GSculerlor/Cytosu`~~ -->
+> --[Cytosu](https://github.com/GSculerlor/Cytosu) ([GSculerlor](https://github.com/GSculerlor)) - `git clone --recurse-submodules https://github.com/GSculerlor/Cytosu`~~ (Both base and rework branch are not working)
+>> ~~[Cytosu](https://github.com/GSculerlor/Cytosu/tree/dev-rework) ([GSculerlor](https://github.com/GSculerlor)) [Rework] - `git clone --recurse-submodules --branch dev-rework https://github.com/GSculerlor/Cytosu`~~
 
 <!-- > [FlashVoltex](https://github.com/stupefaction02/FlashVoltex) ([StupeFaction](https://github.com/stupefaction02)) - `git clone --recurse-submodules https://github.com/stupefaction02/FlashVoltex` -->
 
